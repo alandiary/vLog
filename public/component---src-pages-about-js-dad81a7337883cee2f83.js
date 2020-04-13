@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"3XHS":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=function(){return l.a.createElement("h1",null,"This is a header.")};n.default=function(){return l.a.createElement("div",{style:{color:"teal"}},l.a.createElement(r,null),l.a.createElement("p",null,"Such wow. Very React."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-dad81a7337883cee2f83.js.map
